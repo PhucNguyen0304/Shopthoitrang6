@@ -1,0 +1,65 @@
+
+.YourCartfeelslonely {
+    max-width: 486px; 
+    padding: 1rem;  
+    padding-top: 2rem;  
+    background-color: white; 
+    display: flex; 
+    gap: 1rem; 
+    flex-direction: column; 
+    align-items: center; 
+    border-radius: 0.375rem;  
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); 
+  }
+
+  .app-container {
+    font-size: 0.875rem;
+    text-align: center;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    margin-top: -0.5rem;
+    color: black;
+  }
+
+  .text-style {
+    font-family: 'font-titleFont'; 
+    font-size: 1.25rem;  
+    font-weight: bold;  
+    text-transform: uppercase; 
+  }
+  
+  .image-style {
+    width: 350px;  
+    border-radius: 0.5rem; 
+    padding: 1rem; 
+    margin-left: auto;  
+    margin-right: auto;  
+    float: right;  
+  }
+  
+
+.background-color {
+    background-color: rgb(175, 173, 173); 
+    border-radius: 0.375rem;
+    cursor: pointer;
+    padding-left: 2rem; 
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    font-family: font-titleFont;
+    font-weight: 600; 
+    font-size: 1.125rem;
+    color: rgb(36, 34, 34); 
+    transition: background-color 300ms; 
+  }
+  
+  .background-color:hover {
+    background-color: black; 
+    color: white;
+  }
+  
+  .background-color:active {
+    background-color: #1a202c; 
+  }
+  
+
